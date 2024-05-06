@@ -1,0 +1,9 @@
+a{
+    display: block;
+    margin: 5px;
+    direction: rtl;
+}
+
+.active-link {
+    color: rgb(221, 48, 155);
+}

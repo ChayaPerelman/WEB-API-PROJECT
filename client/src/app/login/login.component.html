@@ -1,0 +1,12 @@
+<p-dialog [(visible)]="isOpen" [style]="{width: '300px'}" header="login ">
+  <div class="p-field">
+    <input id="name" type="text" pInputText [(ngModel)]="userLogin.userName" placeholder="user name" />
+  </div>
+  <div class="p-field">
+    <input id="name" type="text" pInputText [(ngModel)]="userLogin.userPassword" placeholder="password" />
+
+  </div>
+  <p-button (onClick)="login()" label="login" icon="pi pi-user" styleClass="w-10rem mx-auto"></p-button>
+  <p-button styleClass="w-10rem mx-auto" routerLink="register" icon="pi pi-user-plus" (onClick)="register()"
+    routerLinkActive="active-link" label="new user? click!"></p-button>
+</p-dialog>

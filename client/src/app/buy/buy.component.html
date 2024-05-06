@@ -1,0 +1,20 @@
+<div class="card" *ngFor="let gift of listGF; let i = index">
+    <h2>{{gift.name}}</h2>
+    <img class="img" [src]="'../../assets/pictures/'+gift.image" />
+    <h2>{{gift.cost }} $ </h2>
+    <button pButton pRipple icon="pi pi-plus" class="p-button-addToCart mr-2" (click)=addToCart(gift)
+        label="addToCart"></button>
+    <p>
+        <button pButton pRipple icon="pi pi-plus" class="p-button-add mr-2" (click)=add(object.qty)>➕</button>
+        <button pButton pRipple label="{{object.qty}}" class="p-button-num mr-2"></button>
+        <button pButton pRipple icon="pi pi-minus" class="p-button-add" (click)=reduce(object.qty)>➖</button>
+    </p>
+</div>
+<p-dialog [(visible)]="isOpen" [style]="{width: '450px'}" header="my cart">
+    <div class="p-field">
+        <span [(ngModel)]="listCart"></span>
+        {{listCart}}
+    </div>
+    <p-button (onClick)="pay()" label="pay" icon="pi pi-user" styleClass="w-10rem mx-auto"></p-button>
+    <p-button (onClick)="hideDialog2()" label="close" icon="pi pi-user" styleClass="w-10rem mx-auto"></p-button>
+</p-dialog>

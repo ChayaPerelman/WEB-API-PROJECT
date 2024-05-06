@@ -1,0 +1,41 @@
+<p-dialog [(visible)]="payDialog" [style]="{width: '450px'}" header="Pay Details">
+  <label>Your details: </label>
+  <div class="field col-12 md:col-8">
+    <div class="p-inputgroup">
+      <span class="p-inputgroup-addon"><i class="pi pi-user"></i></span>
+      <input type="text" id="inputtext" pInputText class="ng-invalid ng-dirty" placeholder="Name">
+      <br>
+      <small class="p-error" *ngIf="submitted && !payName">Name is required.</small>
+    </div>
+  </div>
+  <div class="col-12 md:col-8">
+    <div class="p-inputgroup">
+      <span class="p-inputgroup-addon">$</span>
+      <input type="text" pInputText placeholder="Price">
+      <span class="p-inputgroup-addon">.00</span>
+    </div>
+  </div>
+  <div class="field col-12 md:col-4">
+    <p-password [toggleMask]="true" placeholder="Password" class="ng-invalid ng-dirty"></p-password>
+    <br>
+    <small class="p-error" *ngIf="submitted && !payPassword">Password is required.</small>
+  </div>
+  <div class="field col-12 md:col-8">
+    <p-calendar inputId="calendar" class="ng-invalid ng-dirty" [showIcon]="true" placeholder="Date"></p-calendar>
+  </div>
+  <label>Credit card Details:</label>
+  <div class="field col-12 md:col-4">
+    <p-inputMask mask="9999 9999 9999 9999" placeholder="1234-1234-1234-1234"></p-inputMask>
+  </div>
+  <div class="field col-12 md:col-4">
+    <p-inputMask inputId="inputmask" mask="99/99" class="ng-invalid ng-dirty" placeholder="validity"></p-inputMask>
+  </div>
+  <div class="field col-12 md:col-4">
+    <p-inputMask inputId="inputmask" mask="999" class="ng-invalid ng-dirty" placeholder="cvc"></p-inputMask>
+  </div>
+  <div class="field col-12 md:col-4">
+    <textarea inputId="textarea" rows="3" cols="30" pInputTextarea class="ng-invalid ng-dirty"
+      placeholder="Your Comments"></textarea>
+  </div>
+  <p-button (onClick)="save()" label="Check" icon="pi pi-user" styleClass="w-10rem mx-auto"></p-button>
+</p-dialog>

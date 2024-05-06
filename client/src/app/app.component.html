@@ -1,0 +1,22 @@
+<p-toolbar>
+    <ng-template pTemplate="right">
+        <button class="p-button-success mr-2" pButton pRipple icon="pi pi-gift"><a routerLink="list-gift"
+                routerLinkActive="active-link">Gifts</a></button>
+        <button class="p-button-success mr-2" pButton pRipple icon="pi pi-bookmark"><a routerLink="list-givers"
+                routerLinkActive="active-link">Donors</a></button>
+        <button class="p-button-success mr-2" pButton pRipple icon="pi pi-shopping-bag"><a routerLink="order-item"
+                routerLinkActive="active-link">My Cart</a></button>
+        <button class="p-button-success mr-2" pButton pRipple icon="pi pi-shopping-cart"><a routerLink="buy"
+                routerLinkActive="active-link">Home</a></button>
+    </ng-template>
+    <ng-template pTemplate="center">
+        <img src="assets/pictures/logo.png" width="210vh">
+    </ng-template>
+    <ng-template pTemplate="left">
+        <button class="p-button-success mr-2" pButton pRipple icon="pi pi-user-plus"><a routerLink="register"
+                routerLinkActive="active-link"> Register</a></button>
+        <button class="p-button-success mr-2" pButton pRipple icon="pi pi-user"><a routerLink="login"
+                routerLinkActive="active-link"> Login</a></button>
+    </ng-template>
+</p-toolbar>
+<router-outlet></router-outlet>

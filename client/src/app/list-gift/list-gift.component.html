@@ -1,0 +1,69 @@
+<div>
+    <p-toolbar styleClass="mb-4">
+        <ng-template pTemplate="left">
+        </ng-template>
+    </p-toolbar>
+    <p-table #dt [value]="listGF" [rows]="10" [paginator]="true"
+        [globalFilterFields]="['name','country.name','representative.name','status']" [(selection)]="selectedGifts"
+        [rowHover]="true" dataKey="id" currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries"
+        [showCurrentPageReport]="true">
+        <ng-template pTemplate="caption">
+            <div class="flex align-items-center justify-content-between">
+                <span class="p-input-icon-right">
+                    <button pButton pRipple icon="pi pi-plus" class="p-button-success mr-2"
+                        (click)="openNew()"></button>
+                    <button pButton pRipple icon="pi pi-user" class="p-button-success mr-2"
+                        (click)="create_report()"></button>
+                </span>
+                <h5 class="m-0">Manage Gifts</h5>
+                <span class="pi pi-search">
+                    <input pInputText type="text" [(ngModel)]="name" placeholder="Search by name"
+                        (keyup)="getGiftSearch()" /> />
+                </span>
+            </div>
+        </ng-template>
+        <ng-template pTemplate="header">
+            <tr>
+                <th style="width: 3rem">
+                    <p-tableHeaderCheckbox></p-tableHeaderCheckbox>
+                </th>
+                <th pSortableColumn="giftId">giftId <p-sortIcon field="giftId"></p-sortIcon></th>
+                <th pSortableColumn="name">name <p-sortIcon field="name"></p-sortIcon></th>
+                <th pSortableColumn="donorId">donorId <p-sortIcon field="donorId"></p-sortIcon></th>
+                <th pSortableColumn="cost">cost <p-sortIcon field="cost"></p-sortIcon></th>
+
+                <th pSortableColumn="image">image <p-sortIcon field="image"></p-sortIcon></th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-gift>
+            <tr>
+                <td>
+                    <p-tableCheckbox [value]="gift"></p-tableCheckbox>
+                </td>
+                <td>{{gift.giftId}}</td>
+                <td>{{gift.name}}</td>
+                <td>{{gift.donorId}}</td>
+                <td>{{gift.cost| currency:'USD'}}</td>
+                <td><img class="img" [src]="'../../assets/pictures/'+gift.image" /></td>
+                <td>
+                    <button pButton pRipple icon="pi pi-pencil" class="p-button-rounded p-button-success mr-2"
+                        (click)="editGift(gift)">
+                    </button>
+                    <button pButton pRipple icon="pi pi-trash" class="p-button-rounded p-button-success mr-2"
+                        (click)="delete(gift.giftId)"></button>
+
+                    <button pButton pRipple icon="pi pi-star" class="p-button-rounded p-button-success mr-2"
+                        (click)="Raffele(gift.name)" *ngIf="!gift.winFlag"></button>
+                </td>
+            </tr>
+        </ng-template>
+    </p-table>
+    <app-add-edit [(isOpen)]="giftDialog" [gift]="gift"></app-add-edit> <!-- <p-toolbar styleClass="mb-4"> -->
+</div>
+<p-dialog [(visible)]="isOpen1" [style]="{width: '450px'}" header="all the winners">
+    <div class="p-field">
+        <span for="name" [(ngModel)]="report"></span>
+        {{report}}
+    </div>
+    <p-button (onClick)="hideDialog()" label="close" icon="pi pi-user" styleClass="w-10rem mx-auto"></p-button>
+</p-dialog>

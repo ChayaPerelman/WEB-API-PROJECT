@@ -1,0 +1,25 @@
+<p-dialog [(visible)]="isOpen" [style]="{width: '300px'}" header="Giver Details">
+  <ng-template pTemplate="content">
+    <div class="p-field">
+      <input id="name" type="text" pInputText [(ngModel)]="user.userName" placeholder="user name" />
+    </div>
+    <div class="p-field">
+      <p-password [toggleMask]="true" placeholder="Password" class="ng-invalid ng-dirty"
+        [(ngModel)]="user.userPassword"></p-password>
+    </div>
+    <div class="p-field">
+      <input id="name" type="text" pInputText [(ngModel)]="user.userFirstName" placeholder="first name" />
+    </div>
+    <div class="p-field">
+      <input id="name" type="text" pInputText [(ngModel)]="user.userLastName" placeholder="last name" />
+    </div>
+    <div class="p-field">
+      <input id="name" type="text" pInputText [(ngModel)]="user.userPhone" placeholder="phone number" />
+    </div>
+    <div class="p-field">
+      <input id="email" type="email" pInputText [(ngModel)]="user.userEmail" placeholder="email" />
+    </div><br>
+    <p-button id="sender" (onClick)="register()" label="Register" icon="pi pi-user"
+      styleClass="w-10rem mx-auto"></p-button>
+  </ng-template>
+</p-dialog>

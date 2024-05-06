@@ -1,0 +1,7 @@
+{{listCart | json}}
+<div class="card" *ngFor="let cart of listCart; let i = index">
+  <img class="img" [src]="'../../assets/pictures/'+cart.image" />
+  <button pButton pRipple icon="pi pi-plus" class="p-button-addToCart mr-2" (click)=delete(cart.giftId)
+    label="addToCart"></button>
+  <p>{{ cart.qty }} </p>
+</div>

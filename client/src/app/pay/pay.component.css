@@ -1,0 +1,19 @@
+div {
+    padding: 10px;
+}
+
+.p-error {
+    color: orange;
+}
+
+.p-inputtext.ng-dirty.ng-invalid {
+    border-color: orange;
+}
+
+p-inputnumber.ng-dirty.ng-invalid>.p-inputnumber>.p-inputtext {
+    border-color: orange;
+}
+
+.dis {
+    opacity: initial;
+}

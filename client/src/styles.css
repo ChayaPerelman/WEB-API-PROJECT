@@ -1,0 +1,96 @@
+@import "primeicons/primeicons.css";
+
+.all{
+   color: rgb(236, 19, 30);
+}
+.img {
+   width: 100px;
+   height:100px;
+}
+
+a {
+   color: #ffff;
+   text-decoration:none;
+   /* font-family: "Candara Light"; */
+}
+
+.p-button.p-button-success, .p-buttonset.p-button-success > .p-button, .p-splitbutton.p-button-success > .p-button {
+   color: #ffffff;
+   background: #9ba2c6c9;
+   border: #c52257;
+
+   border-radius: 75px;
+   font-family: var(--font-family);
+}
+
+#back{
+   /* background-image: url("src/assets/pictures/7.png"); */
+   height: 100%;
+   /* background-size: 100%; */
+   /* background-size: cover; */
+}
+
+body{
+   background-image: url("src/assets/pictures/7.png");
+   height: 850px;
+   background-size: 100%;
+   background-size: cover;
+}
+
+.p-toolbar {
+   background: #d7d5dd9e;
+   border: 1px solid #dee2e6;
+   padding: 0.25rem;
+   gap: 0.5rem;
+}
+
+.active-link {
+   color: rgb(112 151 194);
+}
+
+.p-inputtext {
+   margin: 3px;
+}
+
+.p-button{
+   color: #ffffff;
+   background: #abb1ce;
+   border: 1px solid #5d658d;
+   padding: 0.75rem 1.25rem;
+   font-size: 1rem;
+   transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s;
+   border-radius: 6px;
+}
+
+
+.w-10rem {
+   width: 15.7rem !important;
+   margin: 2px;
+}
+
+#td,th{
+   background:none;
+   border: 1px solid #fce4e0;
+   padding: 1.25rem;
+   border-radius: 6px;
+   gap: 0.5rem;
+}
+
+.t-table{
+   background:none;
+   border: 1px solid #fce4e0;
+   padding: 1.25rem;
+   border-radius: 6px;
+   gap: 0.5rem; 
+}
+
+.p-datatable .p-datatable-tbody > tr {
+   /* background: #ffffff; */
+   color: #495057;
+   transition: box-shadow 0.2s;
+}
+p-password.ng-invalid.ng-dirty > .p-password > .p-inputtext {
+   /* border-color: #e24c4c; */
+   border-color: #ced4da;
+   width: 250px;
+}

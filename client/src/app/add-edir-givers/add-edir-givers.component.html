@@ -1,0 +1,32 @@
+<p-dialog [(visible)]="isOpen" [style]="{width: '290px'}" header="Giver Details">
+
+    <div class="p-field">
+        <input id="name" type="text" pInputText [(ngModel)]="giver.firstName" placeholder="First Name" />
+        <br>
+        <small class="p-error" *ngIf="submitted && !giver.firstName">firstName is required.</small>
+    </div>
+    <div class="p-field">
+        <input id="name" type="text" pInputText [(ngModel)]="giver.lastName" placeholder="Last Name" />
+        <br>
+        <small class="p-error" *ngIf="submitted && !giver.lastName">lastName is required.</small>
+    </div>
+
+    <div class="p-field">
+        <input id="name" type="text" pInputText [(ngModel)]="giver.phonNumber" placeholder="Phone Number" />
+        <br>
+        <small class="p-error" *ngIf="submitted && !giver.phonNumber">Phone Number is required.</small>
+    </div>
+    <div class="p-field">
+        <input id="name" type="text" pInputText [(ngModel)]="giver.email" placeholder="Email" />
+        <br>
+        <small class="p-error" *ngIf="submitted && !giver.email">Email is required.</small>
+    </div>
+
+
+    <ng-template pTemplate="footer">
+        <button pButton pRipple label="Cancel" icon="pi pi-times" class="p-button-text mr-2"
+            (click)="hideDialog()"></button>
+        <button pButton pRipple label="Save" icon="pi pi-check" class="p-button-text" (click)="saveGiver()"></button>
+    </ng-template>
+
+</p-dialog>

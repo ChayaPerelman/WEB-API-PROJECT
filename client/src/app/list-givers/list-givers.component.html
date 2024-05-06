@@ -1,0 +1,51 @@
+<div class="my-css">
+    <p-toolbar styleClass="mb-4">
+        <ng-template pTemplate="left">
+        </ng-template>
+    </p-toolbar>
+    <p-table #dt [value]="listGivers" [rows]="10" [paginator]="true"
+        [globalFilterFields]="['name','country.name','representative.name','status']" [(selection)]="selectedGivers"
+        [rowHover]="true" dataKey="id" currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries"
+        [showCurrentPageReport]="true">
+        <ng-template pTemplate="caption">
+            <div class="flex align-items-center justify-content-between">
+                <h5 class="m-0">Manage Giver</h5>
+                <button pButton pRipple label="New" icon="pi pi-plus" class="p-button-success mr-2"
+                    (click)="openNew()"></button>
+                <span class="p-input-icon-left">
+                    <i class="pi pi-search"></i>
+                    <input pInputText type="text" placeholder="Search..." [(ngModel)]="giver.firstName"
+                        placeholder="Search by giftname" (keyup)="SearchDonorsByAll()" />
+                </span>
+            </div>
+        </ng-template>
+        <ng-template pTemplate="header">
+            <tr>
+                <th pSortableColumn="Id">Id <p-sortIcon field="id"></p-sortIcon>></th>
+                <th pSortableColumn="lastName">last name <p-sortIcon field="lastName"></p-sortIcon></th>
+                <th pSortableColumn="firstName">first name <p-sortIcon field="firstName"></p-sortIcon></th>
+                <th pSortableColumn="phonNumber">phone number <p-sortIcon field="phonNumber"></p-sortIcon></th>
+                <th pSortableColumn="GiftName">email <p-sortIcon field="email"></p-sortIcon></th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-giver>
+            <tr>
+                <td>{{giver.donorId}}</td>
+                <td>{{giver.firstName }}</td>
+                <td>{{giver.lastName }}</td>
+                <td>{{giver.phonNumber}}</td>
+                <td>{{giver.email}}</td>
+                <td>
+                    <button pButton pRipple icon="pi pi-pencil" class="p-button-rounded p-button-success mr-2"
+                        (click)="editgiver(giver)"></button>
+                    <button pButton pRipple icon="pi pi-trash" class="p-button-rounded p-button-success mr-2"
+                        (click)="delete(giver.donorId)"></button>
+                    <button pButton pRipple icon="pi pi-heart" class="p-button-rounded p-button-success mr-2"
+                        (click)="getGiverById(giver.donorId)"></button>
+                </td>
+            </tr>
+        </ng-template>
+        <p-dialog></p-dialog>
+    </p-table>
+    <app-add-edir-givers [(isOpen)]="giverDialog" [giver]="giver"></app-add-edir-givers>
+</div>

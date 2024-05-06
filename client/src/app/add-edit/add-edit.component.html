@@ -1,0 +1,36 @@
+<p-dialog [(visible)]="isOpen" [style]="{width: '450px'}" header="Product Details">
+    <div class="p-field">
+        <label for="name">Name</label>
+        <input id="name" type="text" pInputText [(ngModel)]="gift.name" required autofocus />
+        <br>
+        <small class="p-error" *ngIf="submitted && !gift.name">name is required.</small>
+    </div>
+    <div class="p-field">
+        <label for="donorId">donorId</label>
+        <select pInputText id="donorId" [(ngModel)]="gift.donorId">
+            <option *ngFor="let item of donorsToSelect " [value]="item.donorId">{{item.firstName}} </option>
+        </select>
+        <br>
+        <small class="p-error" *ngIf="submitted && !gift.donorId">donorId is required.</small>
+    </div>
+    <div class="p-field">
+        <label for="name">category</label>
+        <p-dropdown [options]="listCategory" [(ngModel)]="gift.category" optionLabel="name" [showClear]="true"
+            placeholder="select category"></p-dropdown>
+    </div>
+    <div class="p-field">
+        <label for="name">Cost</label>
+        <input id="name" type="number" pInputText [(ngModel)]="gift.cost" />
+    </div>
+    <div class="p-field">
+        <label for="name">image</label>
+        <input id="name" type="text" pInputText [(ngModel)]="gift.image" />
+        <br>
+        <small class="p-error" *ngIf="submitted && !gift.image">Image is required.</small>
+    </div>
+    <ng-template pTemplate="footer">
+        <button pButton pRipple label="Cancel" icon="pi pi-times" class="p-button-text" (click)="hideDialog()"></button>
+        <button pButton pRipple label="Save" icon="pi pi-check" class="p-button-text" (click)="saveGift()"
+            (onClick)="hideDialog()"></button>
+    </ng-template>
+</p-dialog>

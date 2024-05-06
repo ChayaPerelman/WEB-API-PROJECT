@@ -1,0 +1,1427 @@
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\appsettings.json
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+M:\sale_webapi\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\appsettings.json
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+D:\Users\The user\Desktop\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\appsettings.json
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+F:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+F:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\appsettings.json
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WEBAPI\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+E:\WEBAPI\sale_webapi\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\appsettings.json
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+D:\Users\The user\Desktop\sale_webapi\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.json
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+F:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.json
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+E:\WEBAPI\p_api+raffele\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.json
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+F:\p_api+raffele\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.json
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+E:\p_api+raffele\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.json
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\libman.json
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Castle.Core.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Handles.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Interfaces.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.LinqExtender.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\MDriven.Net.Http.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Scrutor.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Users\The user\Desktop\rrrrrr\p_api+raffele\sale_webapi\bin\Debug\net6.0\Antlr4.Runtime.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.json
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\libman.json
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Antlr4.Runtime.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Castle.Core.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Handles.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Interfaces.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.LinqExtender.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\MDriven.Net.Http.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Scrutor.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+E:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.json
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\libman.json
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Antlr4.Runtime.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Castle.Core.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Handles.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Interfaces.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.LinqExtender.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\MDriven.Net.Http.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Scrutor.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+F:\מהבית\p_api+raffele\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+F:\מהבית\p_api+raffele\sale_webapi\bin\Debug\net6.0\Google.Protobuf.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.json
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\libman.json
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Antlr4.Runtime.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Castle.Core.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Handles.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Interfaces.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.LinqExtender.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\MDriven.Net.Http.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Google.Protobuf.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Scrutor.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+F:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.json
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\libman.json
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Antlr4.Runtime.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Castle.Core.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Handles.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Interfaces.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.LinqExtender.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\MDriven.Net.Http.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Google.Protobuf.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Scrutor.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+E:\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.json
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\libman.json
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Antlr4.Runtime.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Castle.Core.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Handles.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Interfaces.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.LinqExtender.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\MDriven.Net.Http.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Google.Protobuf.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Scrutor.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+E:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.json
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\libman.json
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Antlr4.Runtime.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Castle.Core.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Handles.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Interfaces.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.LinqExtender.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\MDriven.Net.Http.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Google.Protobuf.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Scrutor.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+F:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\appsettings.json
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\libman.json
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Antlr4.Runtime.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Castle.Core.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Handles.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.Interfaces.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Eco.LinqExtender.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\MDriven.Net.Http.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Google.Protobuf.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Scrutor.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+G:\New folder (2)\פרויקט api+אנגולר\p_api+raffele\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\appsettings.Development.json
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\appsettings.json
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\libman.json
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\sale_webapi.exe
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\DAL\IOrderItemDal.cs
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\sale_webapi.deps.json
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\sale_webapi.runtimeconfig.json
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\sale_webapi.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\sale_webapi.pdb
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Antlr4.Runtime.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\AutoMapper.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Castle.Core.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Eco.Handles.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Eco.Interfaces.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Eco.LinqExtender.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\MDriven.Net.Http.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Google.Protobuf.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Humanizer.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Scrutor.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WEB-API-PROJECT\server\sale_webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.AssemblyReference.cache
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\sale_webapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfoInputs.cache
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\sale_webapi.AssemblyInfo.cs
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CoreCompileInputs.cache
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cs
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\sale_webapi.MvcApplicationPartsAssemblyInfo.cache
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\staticwebassets.build.json
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\staticwebassets.development.json
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.sale_webapi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.build.sale_webapi.props
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sale_webapi.props
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sale_webapi.props
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\scopedcss\bundle\sale_webapi.styles.css
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\sale_webapi.csproj.CopyComplete
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\sale_webapi.dll
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\refint\sale_webapi.dll
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\sale_webapi.pdb
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\sale_webapi.genruntimeconfig.cache
+E:\WEB-API-PROJECT\server\sale_webapi\obj\Debug\net6.0\ref\sale_webapi.dll

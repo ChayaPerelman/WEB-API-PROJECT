@@ -1,0 +1,14 @@
+<div>
+    <div class="card" *ngFor="let c of listCart; let i = index">
+        <img class="img" [src]="'../../assets/pictures/'+c.image" />
+
+        <button pButton pRipple icon="pi pi-plus" class="p-button-addToCart mr-2" (click)=delete(c.id)
+            label="delete"></button>
+        <p> {{ c.qty }} </p>
+    </div>
+    <div>
+        <app-pay [(payDialog)]="ifTrue"></app-pay>
+        <button class="btn" (click)=return()>חזרה לחנות</button>
+        <p-button (onClick)="pay()" label="pay" icon="pi pi-credit-card" styleClass="w-10rem mx-auto"></p-button>
+    </div>
+</div>
